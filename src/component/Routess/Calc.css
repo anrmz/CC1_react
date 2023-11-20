@@ -1,0 +1,36 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  justify-content: center;
+}
+#input{
+width: 267px;
+height: 75px;
+margin-left: 6px;
+}
+body{
+  background-color: black;
+  margin-top: 30px;
+}
+#C{
+  background-color: rgb(255, 98, 0);
+  color: aliceblue;
+  height: 75px;
+  width: 75px;
+
+}
+.toto{
+  height: 75px;
+  width: 75px;
+}
+.container{
+  display: grid;
+  place-content: center;
+  padding-top: 50px;
+
+}
+img{
+  height: 400px;
+  width: 700px;
+}
